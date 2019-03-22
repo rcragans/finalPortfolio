@@ -1,0 +1,33 @@
+.skills-icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* flex-wrap: wrap; */
+    width: 100%;
+    /* min-width: 225px; */
+    color: white;
+    font-size: 50pt;
+    padding: 0.5rem;
+    margin: auto;
+    opacity: 0.8;
+}
+
+.skills-box{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    margin:auto
+}
+
+.container {
+    width: 100%
+}
+
+.row{
+    margin:auto;
+    display:flex;
+    flex-direction: row
+}

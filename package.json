@@ -3,8 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "devicon": "^2.0.0",
+    "devicon-react": "^1.1.1",
+    "express": "^4.16.4",
+    "helmet": "^3.16.0",
+    "materialize-css": "^1.0.0-rc.2",
     "react": "^16.8.4",
+    "react-devicon": "^0.1.9",
     "react-dom": "^16.8.4",
+    "react-router-dom": "^5.0.0",
     "react-scripts": "2.1.8"
   },
   "scripts": {
