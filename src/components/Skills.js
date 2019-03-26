@@ -13,7 +13,7 @@ class Skills extends Component {
                     <h1 className="center">Skills</h1>
                     <div className="skills-box row">
                         <div className="skills-icons">
-                        <i className="devicon-javascript-plain"></i>
+                            <i className="devicon-javascript-plain"></i>
                             {/* <p className="skill-name">JavaScript</p> */}
                         </div>
                         <div className="skills-icons">
@@ -28,7 +28,7 @@ class Skills extends Component {
                             <i className="devicon-postgresql-plain-wordmark"></i>
                             {/* <p className="skills-name">PostgreSQL</p> */}
                         </div>
-                        
+
                         <div className="skills-icons">
                             <i className="devicon-bootstrap-plain-wordmark"></i>
                             {/* <p className="skills-name">Materialize</p> */}

@@ -13,3 +13,94 @@ code {
     monospace;
 }
 
+
+.myImage{
+  width:50%;
+  /* height:20%; */
+  border-radius: 50%;
+  margin:auto
+}
+
+.cls-1{
+  fill:#0076b2;}
+  
+.cls-2{fill:#fff;}
+
+.contact-buttons a{
+  display: inline-block;
+  justify-content: center;
+  flex-direction: column;
+  height:200px;
+  width:200px
+
+}
+/* .icons-gh{
+  min-height: 75px;
+  min-width:75px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center
+}
+
+.icons-li{
+  height: 75px;
+  width:75px;
+  text-align: center;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center
+  
+}
+
+.iconContainer{
+  text-align: center;
+  
+}
+
+ */
+
+ #contact-me {
+  background-color: transparent;
+  color: white;
+  width: 100%;
+  /* max-width: 40.6rem; */
+  margin-top: 1 rem;
+  /* padding: 1rem; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.mini-bio {
+  text-align: center;
+  max-width: 40.6rem;
+}
+
+.contact-icons {
+  width: 100%;
+  /* min-width: 4rem; */
+  /* font-size: 2.5rem; */
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.contact-icon {
+  margin: 0.5rem;
+  width: 100%;
+  max-width: 4.5rem;
+  /* color: rgb(58, 58, 58); */
+  text-decoration: none;
+  display: flex;
+  flex-shrink: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
